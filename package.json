@@ -25,7 +25,7 @@
   "homepage": "https://www.alt-f1.be",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Abdelkrim/openclaw-skill-sharepoint.git"
+    "url": "https://github.com/ALT-F1-OpenClaw/openclaw-skill-sharepoint.git"
   },
   "dependencies": {
     "@azure/identity": "^4.0.0",
