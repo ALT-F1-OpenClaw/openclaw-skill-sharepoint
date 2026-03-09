@@ -2,9 +2,15 @@
 
 OpenClaw skill for Microsoft SharePoint — secure file operations and Office document intelligence via Microsoft Graph API with certificate-based authentication (`Sites.Selected`).
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Node.js](https://img.shields.io/badge/Node.js-%3E%3D18-green.svg)](https://nodejs.org/)
+[![SharePoint](https://img.shields.io/badge/SharePoint-Online-blue.svg?logo=microsoftsharepoint)](https://www.microsoft.com/en-us/microsoft-365/sharepoint/)
+[![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-orange.svg)](https://clawhub.ai)
 [![ClawHub](https://img.shields.io/badge/ClawHub-sharepoint--by--altf1be-orange)](https://clawhub.ai/skills/sharepoint-by-altf1be)
 [![Security](https://img.shields.io/badge/Security_Scan-Benign-green)](https://clawhub.ai/skills/sharepoint-by-altf1be)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ALT-F1-OpenClaw/openclaw-skill-sharepoint)](https://github.com/ALT-F1-OpenClaw/openclaw-skill-sharepoint/commits/main)
+[![GitHub issues](https://img.shields.io/github/issues/ALT-F1-OpenClaw/openclaw-skill-sharepoint)](https://github.com/ALT-F1-OpenClaw/openclaw-skill-sharepoint/issues)
+[![GitHub stars](https://img.shields.io/github/stars/ALT-F1-OpenClaw/openclaw-skill-sharepoint)](https://github.com/ALT-F1-OpenClaw/openclaw-skill-sharepoint/stargazers)
 
 **Install via ClawHub:**
 ```bash
